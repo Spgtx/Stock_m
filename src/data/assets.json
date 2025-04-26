@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "id": "AAPL",
+      "name": "Apple",
+      "logo": "https://logo.clearbit.com/apple.com",
+      "price": 160.7,
+      "change": -1.13,
+      "shares": 330.4,
+      "totalValue": 53086.28
+    },
+    {
+      "id": "META",
+      "name": "Meta",
+      "logo": "https://logo.clearbit.com/meta.com",
+      "price": 140.48,
+      "change": -0.8,
+      "shares": 140.48,
+      "totalValue": 19734.63
+    },
+    {
+      "id": "MSFT",
+      "name": "Microsoft",
+      "logo": "https://logo.clearbit.com/microsoft.com",
+      "price": 140.38,
+      "change": 0.25,
+      "shares": 140.38,
+      "totalValue": 19706.54
+    },
+    {
+      "id": "GOOGL",
+      "name": "Google",
+      "logo": "https://logo.clearbit.com/google.com",
+      "price": 99.32,
+      "change": -0.94,
+      "shares": 99.32,
+      "totalValue": 9864.56
+    }
+  ]
+}

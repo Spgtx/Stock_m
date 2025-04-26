@@ -1,0 +1,58 @@
+{
+  "watchlist": [
+    {
+      "id": "SPOT",
+      "name": "SPOT",
+      "fullName": "Spotify",
+      "logo": "https://logo.clearbit.com/spotify.com",
+      "price": 130.4,
+      "change": -1.07,
+      "category": "Spotify"
+    },
+    {
+      "id": "ABNB",
+      "name": "ABNB",
+      "fullName": "Airbnb",
+      "logo": "https://logo.clearbit.com/airbnb.com",
+      "price": 132.73,
+      "change": 23.29,
+      "category": "Airbnb"
+    },
+    {
+      "id": "SHOP",
+      "name": "SHOP",
+      "fullName": "Shopify",
+      "logo": "https://logo.clearbit.com/shopify.com",
+      "price": 26.57,
+      "change": -4.88,
+      "category": "Shopify"
+    },
+    {
+      "id": "SONY",
+      "name": "SONY",
+      "fullName": "Sony",
+      "logo": "https://logo.clearbit.com/sony.com",
+      "price": 71.86,
+      "change": 0.78,
+      "category": "PlayStation"
+    },
+    {
+      "id": "DBX",
+      "name": "DBX",
+      "fullName": "Dropbox",
+      "logo": "https://logo.clearbit.com/dropbox.com",
+      "price": 20.44,
+      "change": -3.28,
+      "category": "Dropbox Inc"
+    },
+    {
+      "id": "PYPL",
+      "name": "PYPL",
+      "fullName": "PayPal",
+      "logo": "https://logo.clearbit.com/paypal.com",
+      "price": 87.46,
+      "change": -1.86,
+      "category": "Paypal"
+    }
+  ]
+}
